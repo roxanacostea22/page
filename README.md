@@ -1,7 +1,10 @@
-<!DOCTYPE html>
-<html>
-<body>
-    <h1>Salutare, lume!</h1>
-    <p>Acesta este primul meu paragraf pe o pagină web.</p>
-</body>
-</html>
+<!DOCTYPE html>	
+<html>	
+<head>	
+    <title>Prima mea pagină web</title>	
+</head>	
+<body>	
+    <h1>Bine ați venit la prima mea pagină web!</h1>	
+    <p>Acesta este un paragraf de text simplu.</p>	
+</body>	
+</html>	
